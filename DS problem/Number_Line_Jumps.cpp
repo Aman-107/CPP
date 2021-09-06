@@ -18,7 +18,7 @@ int main()
         cout<<"NO"<<endl;
         break;
     }
-    else if(d1>d2)
+    else if(d1>d2)   
     {
     d3 = abs(x2-x1);
     if(d3 == 0)
